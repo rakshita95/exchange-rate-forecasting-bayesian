@@ -6,5 +6,5 @@ In this project, we evaluate the performance of bayesian VAR in the context of I
 
 * Report: Writeup of the details of the project
 * data.csv: Contains data used in forecasting. Obtained from RBI's website
-* bvar_: Main matlab file. Plots the rmse for different models
-* mlag2.m: helper file
+* bayes_var: Main matlab file. Compares and evaluates the various models
+* mlag2.m: Helper file
