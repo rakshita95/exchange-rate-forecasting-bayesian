@@ -2,7 +2,7 @@ clc
 clear
 
 % Load the data from csv file
-fileName = 'Recent_toBeUsed.csv';
+fileName = 'data.csv';
 % Exclude first row of column Names and first 2 columns.
 Data = csvread(fileName, 1, 3);
 Data = Data(1:end-1, 1:end);
