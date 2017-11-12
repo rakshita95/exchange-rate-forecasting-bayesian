@@ -4,6 +4,8 @@ In this project, we evaluate the performance of bayesian Vector Auto Regressive 
 
 Presented this work as a talk titled, "Bayesian forecasting of Rupee/Dollar exchange rate: Does Minnesota prior matter?" at the International Conference On Financial Markets And Corporate Finance held in IIT Kharagpur, India.
 
+The approach and results have been described in the [report.](Resume.pdf)
+
 ## Files and their Functions
 
 * Report: Writeup of the details of the project
