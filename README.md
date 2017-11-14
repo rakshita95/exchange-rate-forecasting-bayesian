@@ -6,6 +6,8 @@ Presented this work as a talk titled, "Bayesian forecasting of Rupee/Dollar exch
 
 A detailed explanation of the approach and discussion of the results can be found in the [report.](Report.pdf)
 
+I have also explored the time aware deep learning models like LSTMs for exchange rate forecasting. The project can be found  [in this repository.](https://github.com/rakshita95/DeepLearning-time-series)
+
 ## Files and their Functions
 
 * Report: Writeup of the details of the project
